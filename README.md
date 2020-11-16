@@ -2,4 +2,4 @@
 
 ## Plan to use Bootstrap, Javascript, MongoDB, Express;
 
-![freebook UI](./freebook.jpg)
+![freebook UI](/freebook.jpg)

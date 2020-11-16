@@ -1,5 +1,5 @@
-# freebook - social media app [work in progress]; 
+# freebook - social media app [work in progress];
 
 ## Plan to use Bootstrap, Javascript, MongoDB, Express;
 
-![freebook UI](/freebook.jpg)
+![freebook gif](/images/social.gif)
